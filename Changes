@@ -1,0 +1,6 @@
+Revision history for Perl extension Devel::Pointer::PP.
+
+0.01  Tue Sep  4 22:12:42 2001
+	- original version; created by unpacking Devel::Pointer 1.00
+          and replacing Simon's code with my own.
+
