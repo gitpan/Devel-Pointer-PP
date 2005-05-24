@@ -1,9 +1,12 @@
 Changes
+lib/Devel/Pointer/PP.pm
 Makefile.PL
-MANIFEST
-MANIFEST.SKIP
-PP.pm
+MANIFEST			This list of files
 README
 SIGNATURE
-test.pl
-META.yml                                Module meta-data (added by MakeMaker)
+t/00signature.t
+t/01pod.t
+t/10export.t
+t/20functional.t
+t/test
+META.yml                                 Module meta-data (added by MakeMaker)
